@@ -1,0 +1,5 @@
+D:\c#\code Breakers\code Breakers\publish\code Breakers.exe
+D:\c#\code Breakers\code Breakers\publish\code Breakers.dll
+D:\c#\code Breakers\code Breakers\publish\code Breakers.deps.json
+D:\c#\code Breakers\code Breakers\publish\code Breakers.runtimeconfig.json
+D:\c#\code Breakers\code Breakers\publish\code Breakers.pdb

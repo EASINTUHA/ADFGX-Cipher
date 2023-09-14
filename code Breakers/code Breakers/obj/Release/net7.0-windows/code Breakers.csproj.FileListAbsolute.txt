@@ -1,0 +1,16 @@
+D:\c#\code Breakers\code Breakers\bin\Release\net7.0-windows\code Breakers.exe
+D:\c#\code Breakers\code Breakers\bin\Release\net7.0-windows\code Breakers.deps.json
+D:\c#\code Breakers\code Breakers\bin\Release\net7.0-windows\code Breakers.runtimeconfig.json
+D:\c#\code Breakers\code Breakers\bin\Release\net7.0-windows\code Breakers.dll
+D:\c#\code Breakers\code Breakers\bin\Release\net7.0-windows\code Breakers.pdb
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code_Breakers.Form1.resources
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.csproj.GenerateResource.cache
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.AssemblyInfoInputs.cache
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.AssemblyInfo.cs
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.csproj.CoreCompileInputs.cache
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.dll
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\refint\code Breakers.dll
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.pdb
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\code Breakers.genruntimeconfig.cache
+D:\c#\code Breakers\code Breakers\obj\Release\net7.0-windows\ref\code Breakers.dll
